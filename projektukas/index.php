@@ -25,9 +25,9 @@
   <div class="pure-menu pure-menu-horizontal">
     <a>MINIDEMINI</a>
     <ul class="pure-menu-list">
-      <li class="pure-menu-item"><a href="index.html" class="pure-menu-link">Pagrindinis</a></li>
-      <li class="pure-menu-item"><a href="galerija.html" class="pure-menu-link">Galerija</a></li>
-      <li class="pure-menu-item"><a href="kontaktai.html" class="pure-menu-link">Kontaktai</a></li>
+      <li class="pure-menu-item"><a href="index.php" class="pure-menu-link">Pagrindinis</a></li>
+      <li class="pure-menu-item"><a href="galerija.php" class="pure-menu-link">Galerija</a></li>
+      <li class="pure-menu-item"><a href="forma/public/kontaktai.php" class="pure-menu-link">Kontaktai</a></li>
     </ul>
   </div>
 
